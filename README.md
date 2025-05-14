@@ -13,7 +13,6 @@ O dicionário pode ser acessado diretamente a partir do site:
 (Dicionário Xavante)[https://xavante.pythonanywhere.com/dicionario/index.html]
 
 
-Link direto: https://doi.org/10.5281/zenodo.15390713
 
 ## Estrutura do Repositório
 
@@ -27,6 +26,8 @@ Link direto: https://doi.org/10.5281/zenodo.15390713
 Se utilizar este dicionário em sua pesquisa ou em qualquer trabalho derivado, cite da seguinte forma:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15390713.svg)](https://doi.org/10.5281/zenodo.15390713)
+
+Link direto: https://doi.org/10.5281/zenodo.15390713
 
 ## Financiamento
 
