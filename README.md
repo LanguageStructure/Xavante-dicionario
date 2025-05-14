@@ -25,7 +25,8 @@ O dicionário pode ser acessado diretamente a partir do site:
 
 Se utilizar este dicionário em sua pesquisa ou em qualquer trabalho derivado, cite da seguinte forma:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15390713.svg)](https://doi.org/10.5281/zenodo.15390713)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15412891.svg)](https://doi.org/10.5281/zenodo.15412891)
+
 
 Link direto: https://doi.org/10.5281/zenodo.15390713
 
