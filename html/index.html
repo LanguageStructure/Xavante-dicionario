@@ -3,38 +3,102 @@
 <html lang="pt">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Dicionário Xavante – Português</title>
   <style>
+    * {
+      box-sizing: border-box;
+    }
+
     body {
-      font-family: Arial, sans-serif;
-      padding: 2em;
-      max-width: 800px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f9fa;
+      color: #212529;
+    }
+
+    header {
+      background-color: #004d40;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 1.5rem;
+    }
+
+    .container {
+      padding: 1rem;
+      max-width: 900px;
       margin: auto;
     }
-    h1 {
-      text-align: center;
-    }
-    input {
+
+    input[type="text"] {
       width: 100%;
-      padding: 10px;
-      font-size: 1em;
-      margin-bottom: 1em;
+      padding: 0.75rem;
+      font-size: 1rem;
+      margin-bottom: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 5px;
     }
+
     .entry {
-      margin-bottom: 1em;
+      background-color: white;
+      border-left: 4px solid #004d40;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      border-radius: 5px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
     }
+
     .headword {
       font-weight: bold;
+      font-size: 1.2rem;
+      color: #004d40;
     }
+
     .pos {
       font-style: italic;
+      color: #666;
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 1.2rem;
+      }
+
+      .headword {
+        font-size: 1rem;
+      }
     }
   </style>
 </head>
 <body>
-  <h1>Dicionário Xavante – Português</h1>
-  <input type="text" id="searchInput" placeholder="Buscar uma palavra...">
-  <div id="results"></div>
+  <header>
+    <h1>Dicionário Xavante – Português</h1>
+  </header>
+
+  <div class="container">
+    <input type="text" id="searchInput" placeholder="Buscar uma palavra ou definição...">
+    <div id="results"></div>
+  </div>
+
   <script src="dictionary.js"></script>
-</body>
+
+  <footer style="background-color:#eeeeee; padding: 1rem; text-align: center; font-size: 0.9rem;">
+    <p>
+      <strong>Dicionário Xavante</strong><br>
+      Editores: Fabrício Ferraz Gerardi, Ivan Roksandić, Lucas Toribio e Fernando Orphão de Carvalho<br>
+      <a href="https://doi.org/10.5281/zenodo.15412891" target="_blank">
+        <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15412891.svg" alt="DOI">
+      </a>
+    </p>
+  </footer>
+  </body>
+</html>
+
 </html>
