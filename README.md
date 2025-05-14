@@ -8,7 +8,7 @@ O objetivo deste projeto é fornecer um recurso linguístico acessível para fal
 
 ## Acesso
 
-Você pode acessar o dicionário diretamente a partir do Zenodo:
+O dicionário pode ser acessado diretamente a partir do Zenodo:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15390713.svg)](https://doi.org/10.5281/zenodo.15390713)
 
