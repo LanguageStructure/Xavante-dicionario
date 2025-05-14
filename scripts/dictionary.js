@@ -22,7 +22,13 @@ function displayEntries(filtered) {
   filtered.forEach(entry => {
     const div = document.createElement("div");
     div.className = "entry";
-    div.innerHTML = `<span class="headword">${entry.headword}</span> ${entry.ipa} <span class="pos">${entry.pos}</span> — ${entry.definition}`;
+    div.innerHTML = `
+      <span class="headword">${entry.headword}</span> ${entry.ipa}
+      <span class="pos">${entry.pos}</span> — ${entry.definition}
+      ${entry.audio ? `<br><button onclick="new Audio('${entry.audio}').play()" style='margin-top: 0.5rem; background: none; border: none; cursor: pointer; font-size: 1.1rem;'>
+        🔊 Ouvir
+      </button>` : ""}
+    `;
     results.appendChild(div);
   });
 }
