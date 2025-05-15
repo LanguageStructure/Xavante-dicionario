@@ -10,7 +10,7 @@ O objetivo deste projeto é fornecer um recurso linguístico acessível para fal
 
 O dicionário pode ser acessado diretamente a partir do site:
 
-(Dicionário Xavante)[https://xavante.pythonanywhere.com/dicionario/index.html]
+[Dicionário Xavante](https://xavante.pythonanywhere.com/static/dicionario/index.html)
 
 
 
