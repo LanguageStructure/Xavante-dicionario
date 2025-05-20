@@ -52,7 +52,7 @@
     "ipa": "[aʔamo]",
     "pos": "s.",
     "definition": "lua.",
-    "audio":"audio/moon.wav"
+    "audio": "moon.wav"
   },
   {
     "headword": "a'eta",
@@ -209,7 +209,13 @@
     "ipa": "[IPA]",
     "pos": "s.",
     "definition": "democracia."
-  },  
+  },
+  {
+    "headword": "a'uwẽ pisudu",
+    "ipa": "[IPA]",
+    "pos": "s.",
+    "definition": "cabeça."
+  },
   {
     "headword": "a'uwẽ siwazari",
     "ipa": "[IPA]",
@@ -461,7 +467,7 @@
     "ipa": "[abaze]",
     "pos": "s.",
     "definition": "caça, animal de caça.",
-    "audio": "audio/animal.wav"
+    "audio": "animal.wav"
   },
   {
     "headword": "abazi dumnarĩ",
@@ -1980,7 +1986,7 @@
     "ipa": "[IPA]",
     "pos": "adv.",
     "definition": "hoje, agora.",
-    "audio":"audio/today.wav"
+    "audio": "today.wav"
   },
   {
     "headword": "ãhã",
@@ -2580,13 +2586,15 @@
     "headword": "bö",
     "ipa": "[IPA]",
     "pos": "adj.",
-    "definition": "certo, apto, exato, coerente, assim."
+    "definition": "certo, apto, exato, coerente, assim.",
+    "audio": "penis01.wav"
   },
   {
     "headword": "bö",
     "ipa": "[IPA]",
     "pos": "posp.",
-    "definition": "todo, repetidamente"
+    "definition": "todo, repetidamente",
+    "audio": "penis01.wav"
   },
   {
     "headword": "bötö bö todos os dias, diariamente  da bö então. bö [IPA] posp. por acaso  e niha bö por acaso? por que?. bö",
@@ -2599,13 +2607,14 @@
     "ipa": "[IPA]",
     "pos": "s.",
     "definition": "pênis.",
-    "audio": "audio/penis01.wav"
+    "audio": "penis01.wav"
   },
   {
     "headword": "bö",
     "ipa": "[IPA]",
     "pos": "s.",
-    "definition": "urucum."
+    "definition": "urucum.",
+    "audio": "penis01.wav"
   },
   {
     "headword": "da bö -- então, em seguida. da'o",
@@ -2648,7 +2657,7 @@
     "ipa": "[IPA]",
     "pos": "v.",
     "definition": "banhar-se.",
-    "audio": "audio/bathe.wav"
+    "audio": "bathe.wav"
   },
   {
     "headword": "dazaʔwari",
@@ -2949,7 +2958,7 @@
     "ipa": "[IPA]",
     "pos": "s.",
     "definition": "testículo.",
-    "audio": "audio/testicle.wav"
+    "audio": "testicle.wav"
   },
   {
     "headword": "di'izé",
@@ -2975,7 +2984,7 @@
     "pos": "s.",
     "definition": "chá."
   },
-   {
+  {
     "headword": "di.",
     "ipa": "[IPA]",
     "pos": "COP.",
@@ -4552,7 +4561,7 @@
     "ipa": "[IPA]",
     "pos": "s.",
     "definition": "machado.",
-    "audio": "audio/axe.wav"
+    "audio": "axe.wav"
   },
   {
     "headword": "hötörã",
@@ -6587,7 +6596,7 @@
     "ipa": "[IPA]",
     "pos": "s.",
     "definition": "osso do dedo",
-    "audio": "audio/finger.wav"
+    "audio": "finger.wav"
   },
   {
     "headword": "danhiptõmohi wasisizé anel do dedo. nhiptoro",
@@ -7464,7 +7473,7 @@
     "ipa": "[IPA]",
     "pos": "s.",
     "definition": "feio.",
-    "audio":"audio/ugly.wav"
+    "audio": "ugly.wav"
   },
   {
     "headword": "norĩ [IPA] des. pronominal e substantiva do dual e plural. norõ",
@@ -7693,7 +7702,7 @@
     "ipa": "[IPA]",
     "pos": "s.",
     "definition": "chifre.",
-    "audio": "audio/horn.wav"
+    "audio": "horn.wav"
   },
   {
     "headword": "önadasa",
@@ -8210,13 +8219,14 @@
     "ipa": "[IPA]",
     "pos": "s.",
     "definition": "pé, roda.",
-    "audio": "audio/foot.wav"
+    "audio": "foot.wav"
   },
   {
     "headword": "para",
     "ipa": "[IPA]",
     "pos": "posp.",
-    "definition": "dentro de;"
+    "definition": "dentro de;",
+    "audio": "foot.wav"
   },
   {
     "headword": "ri para dentro de casa. para",
@@ -8685,7 +8695,7 @@
     "ipa": "[IPA]",
     "pos": "v.",
     "definition": "respirar, aspirar.",
-    "audio": "audio/breathe.wav"
+    "audio": "breathe.wav"
   },
   {
     "headword": "pẽ'ẽzé",
@@ -8902,7 +8912,7 @@
     "ipa": "[piʔʌ̃jhu]",
     "pos": "adj.",
     "definition": "seio",
-    "audio": "audio/breast.wav"
+    "audio": "breast.wav"
   },
   {
     "headword": "pi'õihu ] s. seio. pi'õiwapru a'amo bö -- menstruação. pi'õ si'ĩhö'a -- dama. pipa [IPA] s. = ropipa -- perigo. pipa",
@@ -8950,7 +8960,7 @@
     "headword": "pisudu",
     "ipa": "[IPA]",
     "pos": "s.",
-    "definition": "único"
+    "definition": "indicação, determinação;"
   },
   {
     "headword": "dazawi pisudu aliança, romhuri si'uiwa pisudu convênio. pisudu",
@@ -9227,7 +9237,7 @@
     "ipa": "[IPA]",
     "pos": "v. du.",
     "definition": "esquecer, esquecer-se de.",
-    "audio": "audio/forget.wav"
+    "audio": "forget.wav"
   },
   {
     "headword": "po're'õ",
@@ -9438,7 +9448,7 @@
     "ipa": "[IPA]",
     "pos": "adj.",
     "definition": "vermelho.",
-    "audio":"audio/red.wav"
+    "audio": "red.wav"
   },
   {
     "headword": "pré'a",
@@ -10399,13 +10409,14 @@
     "ipa": "[IPA]",
     "pos": "s.",
     "definition": "casa.",
-    "audio": "audio/house.wav"
+    "audio": "house.wav"
   },
   {
     "headword": "'ri",
     "ipa": "[IPA]",
     "pos": "v.",
-    "definition": "construir casa."
+    "definition": "construir casa.",
+    "audio": "house.wav"
   },
   {
     "headword": "'rĩ",
@@ -13112,7 +13123,7 @@
     "ipa": "[IPA]",
     "pos": "s.",
     "definition": "vento, sopro.",
-    "audio": "audio/wind.wav"
+    "audio": "wind.wav"
   },
   {
     "headword": "rowa'u'uhöire",
@@ -14451,7 +14462,7 @@
     "ipa": "[IPA]",
     "pos": "v.",
     "definition": "cavar, fazer buraco.",
-    "audio": "audio/dig.wav"
+    "audio": "dig.wav"
   },
   {
     "headword": "sapõri",
@@ -14824,7 +14835,7 @@
     "ipa": "[IPA]",
     "pos": "v. sing.",
     "definition": "defecar, cagar.",
-    "audio":"audio/defecate03.wav"
+    "audio": "defecate03.wav"
   },
   {
     "headword": "sasu'u",
@@ -14843,7 +14854,7 @@
     "ipa": "[saʔu:ɾi]",
     "pos": "v. sing.",
     "definition": "soprar.",
-    "audio": "audio/blow.wav"
+    "audio": "blow.wav"
   },
   {
     "headword": "sa'u",
@@ -14867,7 +14878,8 @@
     "headword": "sa'uri",
     "ipa": "[IPA]",
     "pos": "v.",
-    "definition": "soprar."
+    "definition": "soprar.",
+    "audio": "blow.wav"
   },
   {
     "headword": "sa'uri'wa",
@@ -15390,7 +15402,7 @@
     "ipa": "[IPA]",
     "pos": "s.",
     "definition": "ovo de galinha.",
-    "audio": "audio/egg.wav"
+    "audio": "egg.wav"
   },
   {
     "headword": "si'atarẽme'õ",
@@ -16093,7 +16105,7 @@
     "ipa": "[IPA]",
     "pos": "v.",
     "definition": "mão.",
-    "audio": "audio/hand.wav"
+    "audio": "hand.wav"
   },
   {
     "headword": "sima'uri",
@@ -16106,7 +16118,7 @@
     "ipa": "[IPA]",
     "pos": "v.",
     "definition": "querer, gostar, preferir.",
-    "audio": "audio/want.wav"
+    "audio": "want.wav"
   },
   {
     "headword": "simawẽ upa",
@@ -17541,7 +17553,7 @@
     "ipa": "[IPA]",
     "pos": "s.",
     "definition": "fumaça.",
-    "audio": "audio/smoke(noun).wav"
+    "audio": "smoke(noun).wav"
   },
   {
     "headword": "sisédé",
@@ -19067,12 +19079,12 @@
     "pos": "pron. dem. c./posp.",
     "definition": "daí, a partir daí."
   },
-   {
+  {
     "headword": "tã",
     "ipa": "[tɐ]",
     "pos": "s.",
     "definition": "chuva.",
-    "audio": "audio/rain.wav"
+    "audio": "rain.wav"
   },
   {
     "headword": "tãi'a",
@@ -19787,7 +19799,7 @@
     "ipa": "[datɔ]",
     "pos": "s.",
     "definition": "olho.",
-    "audio": "audio/eye.wav"
+    "audio": "eye.wav"
   },
   {
     "headword": "to",
@@ -20478,7 +20490,7 @@
     "ipa": "[IPA]",
     "pos": "adj.",
     "definition": "verde, azul.",
-    "audio": "audio/blue.wav"
+    "audio": "blue.wav"
   },
   {
     "headword": "uzi",
@@ -21745,7 +21757,7 @@
     "ipa": "[IPA]",
     "pos": "s.",
     "definition": "menino.",
-    "audio": "audio/boy.wav"
+    "audio": "boy.wav"
   },
   {
     "headword": "'wawi",
@@ -21926,13 +21938,14 @@
     "ipa": "[IPA]",
     "pos": "adj.",
     "definition": "quente.",
-    "audio": "audio/hot.wav"
+    "audio": "hot.wav"
   },
   {
     "headword": "wa'ro",
     "ipa": "[IPA]",
     "pos": "s.",
-    "definition": "febre, calor."
+    "definition": "febre, calor.",
+    "audio": "hot.wav"
   },
   {
     "headword": "wa'ru wa'u",
@@ -24363,7 +24376,7 @@
     "ipa": "[iwi]",
     "pos": "s.",
     "definition": "caroço, semente, noz.",
-    "audio":"audio/seed.wav"
+    "audio": "seed.wav"
   },
   {
     "headword": "wĩrĩ [IPA] v. sing. = pãrĩ",
@@ -25876,7 +25889,7 @@
     "ipa": "[IPA]",
     "pos": "v. sg.",
     "definition": "beber.",
-    "audio": "audio/beber.wav"
+    "audio": "beber.wav"
   },
   {
     "headword": "hö'rẽne",
